@@ -23,7 +23,7 @@
 		"eject": "react-scripts eject",
 		"lint": "biome lint .",
 		"format": "biome format .",
-		"check": "biome check --apply ."
+		"check": "biome check --write ."
 	},
 	"eslintConfig": {
 		"extends": ["react-app", "react-app/jest"]
